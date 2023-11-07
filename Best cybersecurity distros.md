@@ -32,7 +32,7 @@ Here are five Linux distributions that are well-suited for cybersecurity profess
 > </details>
 > <details>
 >   <summary>programs preinstalled</summary>
-> > 
+> 
 > > Aircrack-ng<br>
 > > Autopsy<br>
 > > Armitage<br>
@@ -54,6 +54,11 @@ Here are five Linux distributions that are well-suited for cybersecurity profess
 > > OWASP ZAP<br>
 > > Reverse engineering toolkit<br>
 > > Social engineering tools<br>
+> > Sqlmap<br>
+> > Volatility<br>
+> > VulnHub<br>
+> > Wireshark<br>
+> > WPScan<br>
 > </details>
 
 
